@@ -105,11 +105,19 @@ export default function Weather() {
           </div>
           <p>
             is&nbsp;
-            <a href="" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/ix-t/react-weather-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               open-sourced on Github
             </a>
             &nbsp;and&nbsp;
-            <a href="" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/ix-t/react-weather-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               hosted on Netlify
             </a>
           </p>
