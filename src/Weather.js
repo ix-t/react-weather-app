@@ -114,7 +114,7 @@ export default function Weather() {
             </a>
             &nbsp;and&nbsp;
             <a
-              href="https://github.com/ix-t/react-weather-app"
+              href="https://dazzling-pavlova-88e10d.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
